@@ -45,4 +45,4 @@ cask 'dropbox'
 cask 'virtualbox'
 cask 'wunderlist'
 cask 'vlc'
-
+cask 'mongohub'
